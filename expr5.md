@@ -5,3 +5,4 @@ change the file
 and commit the file
 stage and commit
 the file
+rebase
